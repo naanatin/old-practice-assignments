@@ -1,3 +1,5 @@
+TODO: clean up and upload files
+
 These are some of my old C and Java course excercises and assignments from around 2004-2005.
 I was in the beginning of my studies in University of Oulu, studying Information Prcessing Science,
 or Computer Science as it is probably known today.
